@@ -4,3 +4,5 @@ A simple To-Do List that saves tasks into a database. It uses SQLAlchemy to mana
 **Learning outcomes**  
 I learned the basics of SQLAlchemy to manage SQLite database on Python.  
 
+This program is based on project from hyperskill.org:  https://hyperskill.org/projects/105?track=2  
+
